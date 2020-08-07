@@ -1,0 +1,1303 @@
+{
+  "file_title": "report_conn.json",
+  "file_data": {
+    "areas": [
+      {
+        "cust_a": {
+          "val": 402081
+        },
+        "cust_s": 0,
+        "area_name": "EVERSOURCE",
+        "areas": [
+          {
+            "cust_a": {
+              "val": 402081
+            },
+            "cust_s": 1281259,
+            "area_name": "CT",
+            "areas": [
+              {
+                "cust_a": {
+                  "val": 402081
+                },
+                "cust_s": 1281259,
+                "area_name": "CTE",
+                "areas": [
+                  {
+                    "cust_a": {
+                      "val": 907
+                    },
+                    "cust_s": 1430,
+                    "area_name": "ANDOVER",
+                    "percent_out": 63.42657342657343
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2089
+                    },
+                    "cust_s": 2201,
+                    "area_name": "ASHFORD",
+                    "percent_out": 94.91140390731486
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5747
+                    },
+                    "cust_s": 8735,
+                    "area_name": "AVON",
+                    "percent_out": 65.79278763594733
+                  },
+                  {
+                    "cust_a": {
+                      "val": 940
+                    },
+                    "cust_s": 1789,
+                    "area_name": "BARKHAMSTED",
+                    "percent_out": 52.54332029066517
+                  },
+                  {
+                    "cust_a": {
+                      "val": 362
+                    },
+                    "cust_s": 2836,
+                    "area_name": "BEACON FALLS",
+                    "percent_out": 12.764456981664315
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1401
+                    },
+                    "cust_s": 9275,
+                    "area_name": "BERLIN",
+                    "percent_out": 15.105121293800538
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1477
+                    },
+                    "cust_s": 2386,
+                    "area_name": "BETHANY",
+                    "percent_out": 61.90276613579212
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3858
+                    },
+                    "cust_s": 8969,
+                    "area_name": "BETHEL",
+                    "percent_out": 43.01482885494481
+                  },
+                  {
+                    "cust_a": {
+                      "val": 877
+                    },
+                    "cust_s": 1930,
+                    "area_name": "BETHLEHEM",
+                    "percent_out": 45.44041450777202
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2507
+                    },
+                    "cust_s": 10612,
+                    "area_name": "BLOOMFIELD",
+                    "percent_out": 23.624199019977386
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1467
+                    },
+                    "cust_s": 2258,
+                    "area_name": "BOLTON",
+                    "percent_out": 64.96899911426041
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5195
+                    },
+                    "cust_s": 16589,
+                    "area_name": "BRANFORD",
+                    "percent_out": 31.315932244258242
+                  },
+                  {
+                    "cust_a": {
+                      "val": 964
+                    },
+                    "cust_s": 978,
+                    "area_name": "BRIDGEWATER",
+                    "percent_out": 98.56850715746421
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5471
+                    },
+                    "cust_s": 29873,
+                    "area_name": "BRISTOL",
+                    "percent_out": 18.314196766310715
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5362
+                    },
+                    "cust_s": 8453,
+                    "area_name": "BROOKFIELD",
+                    "percent_out": 63.43310067431681
+                  },
+                  {
+                    "cust_a": {
+                      "val": 673
+                    },
+                    "cust_s": 3595,
+                    "area_name": "BROOKLYN",
+                    "percent_out": 18.720445062586926
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2679
+                    },
+                    "cust_s": 3900,
+                    "area_name": "BURLINGTON",
+                    "percent_out": 68.6923076923077
+                  },
+                  {
+                    "cust_a": {
+                      "val": 595
+                    },
+                    "cust_s": 1311,
+                    "area_name": "CANAAN",
+                    "percent_out": 45.385202135774215
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1202
+                    },
+                    "cust_s": 2294,
+                    "area_name": "CANTERBURY",
+                    "percent_out": 52.39755884917175
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1193
+                    },
+                    "cust_s": 5036,
+                    "area_name": "CANTON",
+                    "percent_out": 23.689436060365367
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1122
+                    },
+                    "cust_s": 1128,
+                    "area_name": "CHAPLIN",
+                    "percent_out": 99.46808510638297
+                  },
+                  {
+                    "cust_a": {
+                      "val": 7532
+                    },
+                    "cust_s": 11505,
+                    "area_name": "CHESHIRE",
+                    "percent_out": 65.46718817905258
+                  },
+                  {
+                    "cust_a": {
+                      "val": 671
+                    },
+                    "cust_s": 1976,
+                    "area_name": "CHESTER",
+                    "percent_out": 33.95748987854251
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2455
+                    },
+                    "cust_s": 7155,
+                    "area_name": "CLINTON",
+                    "percent_out": 34.31167016072676
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2873
+                    },
+                    "cust_s": 7350,
+                    "area_name": "COLCHESTER",
+                    "percent_out": 39.08843537414966
+                  },
+                  {
+                    "cust_a": {
+                      "val": 607
+                    },
+                    "cust_s": 826,
+                    "area_name": "COLEBROOK",
+                    "percent_out": 73.48668280871671
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1247
+                    },
+                    "cust_s": 2493,
+                    "area_name": "COLUMBIA",
+                    "percent_out": 50.020056157240276
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1202
+                    },
+                    "cust_s": 1211,
+                    "area_name": "CORNWALL",
+                    "percent_out": 99.25681255161024
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2264
+                    },
+                    "cust_s": 5685,
+                    "area_name": "COVENTRY",
+                    "percent_out": 39.82409850483729
+                  },
+                  {
+                    "cust_a": {
+                      "val": 828
+                    },
+                    "cust_s": 7154,
+                    "area_name": "CROMWELL",
+                    "percent_out": 11.573944646351691
+                  },
+                  {
+                    "cust_a": {
+                      "val": 14237
+                    },
+                    "cust_s": 37485,
+                    "area_name": "DANBURY",
+                    "percent_out": 37.980525543550755
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2443
+                    },
+                    "cust_s": 8094,
+                    "area_name": "DARIEN",
+                    "percent_out": 30.18285149493452
+                  },
+                  {
+                    "cust_a": {
+                      "val": 876
+                    },
+                    "cust_s": 2473,
+                    "area_name": "DEEP RIVER",
+                    "percent_out": 35.42256368782855
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3094
+                    },
+                    "cust_s": 3134,
+                    "area_name": "DURHAM",
+                    "percent_out": 98.72367581365667
+                  },
+                  {
+                    "cust_a": {
+                      "val": 196
+                    },
+                    "cust_s": 2661,
+                    "area_name": "EAST GRANBY",
+                    "percent_out": 7.36565201052236
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3806
+                    },
+                    "cust_s": 4947,
+                    "area_name": "EAST HADDAM",
+                    "percent_out": 76.9355164746311
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3320
+                    },
+                    "cust_s": 6292,
+                    "area_name": "EAST HAMPTON",
+                    "percent_out": 52.765416401780044
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4815
+                    },
+                    "cust_s": 23238,
+                    "area_name": "EAST HARTFORD",
+                    "percent_out": 20.72037180480248
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1218
+                    },
+                    "cust_s": 10160,
+                    "area_name": "EAST LYME",
+                    "percent_out": 11.988188976377954
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2369
+                    },
+                    "cust_s": 6307,
+                    "area_name": "EAST WINDSOR",
+                    "percent_out": 37.561439670207704
+                  },
+                  {
+                    "cust_a": {
+                      "val": 907
+                    },
+                    "cust_s": 928,
+                    "area_name": "EASTFORD",
+                    "percent_out": 97.73706896551724
+                  },
+                  {
+                    "cust_a": {
+                      "val": 0
+                    },
+                    "cust_s": 0,
+                    "area_name": "EASTON",
+                    "percent_out": 0.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1087
+                    },
+                    "cust_s": 7693,
+                    "area_name": "ELLINGTON",
+                    "percent_out": 14.129728324450799
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2499
+                    },
+                    "cust_s": 19527,
+                    "area_name": "ENFIELD",
+                    "percent_out": 12.797664771854356
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1161
+                    },
+                    "cust_s": 4037,
+                    "area_name": "ESSEX",
+                    "percent_out": 28.75897944017835
+                  },
+                  {
+                    "cust_a": {
+                      "val": 32
+                    },
+                    "cust_s": 32,
+                    "area_name": "FAIRFIELD",
+                    "percent_out": 100.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 9888
+                    },
+                    "cust_s": 12819,
+                    "area_name": "FARMINGTON",
+                    "percent_out": 77.13550198923474
+                  },
+                  {
+                    "cust_a": {
+                      "val": 574
+                    },
+                    "cust_s": 1030,
+                    "area_name": "FRANKLIN",
+                    "percent_out": 55.72815533980583
+                  },
+                  {
+                    "cust_a": {
+                      "val": 9715
+                    },
+                    "cust_s": 16778,
+                    "area_name": "GLASTONBURY",
+                    "percent_out": 57.9032065800453
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1906
+                    },
+                    "cust_s": 1931,
+                    "area_name": "GOSHEN",
+                    "percent_out": 98.70533402382186
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1077
+                    },
+                    "cust_s": 4960,
+                    "area_name": "GRANBY",
+                    "percent_out": 21.713709677419356
+                  },
+                  {
+                    "cust_a": {
+                      "val": 7797
+                    },
+                    "cust_s": 28236,
+                    "area_name": "GREENWICH",
+                    "percent_out": 27.613684657883553
+                  },
+                  {
+                    "cust_a": {
+                      "val": 935
+                    },
+                    "cust_s": 3428,
+                    "area_name": "GRISWOLD",
+                    "percent_out": 27.275379229871643
+                  },
+                  {
+                    "cust_a": {
+                      "val": 33
+                    },
+                    "cust_s": 5645,
+                    "area_name": "GROTON",
+                    "percent_out": 0.5845881310894597
+                  },
+                  {
+                    "cust_a": {
+                      "val": 6687
+                    },
+                    "cust_s": 11063,
+                    "area_name": "GUILFORD",
+                    "percent_out": 60.44472566211697
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2148
+                    },
+                    "cust_s": 3967,
+                    "area_name": "HADDAM",
+                    "percent_out": 54.14671036047392
+                  },
+                  {
+                    "cust_a": {
+                      "val": 11
+                    },
+                    "cust_s": 11,
+                    "area_name": "HAMDEN",
+                    "percent_out": 100.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 800
+                    },
+                    "cust_s": 893,
+                    "area_name": "HAMPTON",
+                    "percent_out": 89.58566629339306
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5051
+                    },
+                    "cust_s": 59457,
+                    "area_name": "HARTFORD",
+                    "percent_out": 8.495215029348941
+                  },
+                  {
+                    "cust_a": {
+                      "val": 297
+                    },
+                    "cust_s": 875,
+                    "area_name": "HARTLAND",
+                    "percent_out": 33.94285714285714
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1728
+                    },
+                    "cust_s": 2572,
+                    "area_name": "HARWINTON",
+                    "percent_out": 67.18506998444789
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2519
+                    },
+                    "cust_s": 3982,
+                    "area_name": "HEBRON",
+                    "percent_out": 63.25966850828729
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1889
+                    },
+                    "cust_s": 2159,
+                    "area_name": "KENT",
+                    "percent_out": 87.4942102825382
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1751
+                    },
+                    "cust_s": 8927,
+                    "area_name": "KILLINGLY",
+                    "percent_out": 19.614652178783466
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1550
+                    },
+                    "cust_s": 2878,
+                    "area_name": "KILLINGWORTH",
+                    "percent_out": 53.85684503127172
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1473
+                    },
+                    "cust_s": 2229,
+                    "area_name": "LEBANON",
+                    "percent_out": 66.08344549125168
+                  },
+                  {
+                    "cust_a": {
+                      "val": 596
+                    },
+                    "cust_s": 6810,
+                    "area_name": "LEDYARD",
+                    "percent_out": 8.751835535976506
+                  },
+                  {
+                    "cust_a": {
+                      "val": 670
+                    },
+                    "cust_s": 1882,
+                    "area_name": "LISBON",
+                    "percent_out": 35.60042507970245
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2297
+                    },
+                    "cust_s": 4723,
+                    "area_name": "LITCHFIELD",
+                    "percent_out": 48.63434257886936
+                  },
+                  {
+                    "cust_a": {
+                      "val": 567
+                    },
+                    "cust_s": 1345,
+                    "area_name": "LYME",
+                    "percent_out": 42.15613382899628
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5765
+                    },
+                    "cust_s": 9232,
+                    "area_name": "MADISON",
+                    "percent_out": 62.44584055459272
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4597
+                    },
+                    "cust_s": 29223,
+                    "area_name": "MANCHESTER",
+                    "percent_out": 15.730760017794204
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3201
+                    },
+                    "cust_s": 7512,
+                    "area_name": "MANSFIELD",
+                    "percent_out": 42.61182108626198
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2288
+                    },
+                    "cust_s": 2657,
+                    "area_name": "MARLBOROUGH",
+                    "percent_out": 86.11215656755739
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4334
+                    },
+                    "cust_s": 28339,
+                    "area_name": "MERIDEN",
+                    "percent_out": 15.293411905854123
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2426
+                    },
+                    "cust_s": 3558,
+                    "area_name": "MIDDLEBURY",
+                    "percent_out": 68.18437324339517
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1829
+                    },
+                    "cust_s": 2235,
+                    "area_name": "MIDDLEFIELD",
+                    "percent_out": 81.834451901566
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2418
+                    },
+                    "cust_s": 23144,
+                    "area_name": "MIDDLETOWN",
+                    "percent_out": 10.447632215693051
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5373
+                    },
+                    "cust_s": 7979,
+                    "area_name": "MONROE",
+                    "percent_out": 67.33926557212683
+                  },
+                  {
+                    "cust_a": {
+                      "val": 836
+                    },
+                    "cust_s": 8086,
+                    "area_name": "MONTVILLE",
+                    "percent_out": 10.338857284194905
+                  },
+                  {
+                    "cust_a": {
+                      "val": 853
+                    },
+                    "cust_s": 1407,
+                    "area_name": "MORRIS",
+                    "percent_out": 60.62544420753376
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3237
+                    },
+                    "cust_s": 14541,
+                    "area_name": "NAUGATUCK",
+                    "percent_out": 22.261192490200123
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1892
+                    },
+                    "cust_s": 34911,
+                    "area_name": "NEW BRITAIN",
+                    "percent_out": 5.419495288018103
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5677
+                    },
+                    "cust_s": 8492,
+                    "area_name": "NEW CANAAN",
+                    "percent_out": 66.85115402731982
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4039
+                    },
+                    "cust_s": 6084,
+                    "area_name": "NEW FAIRFIELD",
+                    "percent_out": 66.38724523339909
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2798
+                    },
+                    "cust_s": 3317,
+                    "area_name": "NEW HARTFORD",
+                    "percent_out": 84.35333132348508
+                  },
+                  {
+                    "cust_a": {
+                      "val": 186
+                    },
+                    "cust_s": 13909,
+                    "area_name": "NEW LONDON",
+                    "percent_out": 1.3372636422460278
+                  },
+                  {
+                    "cust_a": {
+                      "val": 7553
+                    },
+                    "cust_s": 13990,
+                    "area_name": "NEW MILFORD",
+                    "percent_out": 53.98856325947106
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1325
+                    },
+                    "cust_s": 14834,
+                    "area_name": "NEWINGTON",
+                    "percent_out": 8.932182823243899
+                  },
+                  {
+                    "cust_a": {
+                      "val": 6717
+                    },
+                    "cust_s": 11460,
+                    "area_name": "NEWTOWN",
+                    "percent_out": 58.61256544502618
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1104
+                    },
+                    "cust_s": 1118,
+                    "area_name": "NORFOLK",
+                    "percent_out": 98.74776386404294
+                  },
+                  {
+                    "cust_a": {
+                      "val": 49
+                    },
+                    "cust_s": 49,
+                    "area_name": "NORTH BRANFORD",
+                    "percent_out": 100.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 505
+                    },
+                    "cust_s": 1471,
+                    "area_name": "NORTH CANAAN",
+                    "percent_out": 34.33038749150238
+                  },
+                  {
+                    "cust_a": {
+                      "val": 223
+                    },
+                    "cust_s": 2629,
+                    "area_name": "NORTH STONINGTON",
+                    "percent_out": 8.482312666413085
+                  },
+                  {
+                    "cust_a": {
+                      "val": 8476
+                    },
+                    "cust_s": 31736,
+                    "area_name": "NORWALK",
+                    "percent_out": 26.70783967733804
+                  },
+                  {
+                    "cust_a": {
+                      "val": 0
+                    },
+                    "cust_s": 4,
+                    "area_name": "NORWICH",
+                    "percent_out": 0.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1747
+                    },
+                    "cust_s": 5506,
+                    "area_name": "OLD LYME",
+                    "percent_out": 31.729022884126408
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1707
+                    },
+                    "cust_s": 7136,
+                    "area_name": "OLD SAYBROOK",
+                    "percent_out": 23.920964125560538
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3897
+                    },
+                    "cust_s": 5694,
+                    "area_name": "OXFORD",
+                    "percent_out": 68.4404636459431
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1619
+                    },
+                    "cust_s": 7259,
+                    "area_name": "PLAINFIELD",
+                    "percent_out": 22.30334756853561
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2065
+                    },
+                    "cust_s": 9468,
+                    "area_name": "PLAINVILLE",
+                    "percent_out": 21.810308407266582
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1642
+                    },
+                    "cust_s": 5820,
+                    "area_name": "PLYMOUTH",
+                    "percent_out": 28.213058419243985
+                  },
+                  {
+                    "cust_a": {
+                      "val": 900
+                    },
+                    "cust_s": 1926,
+                    "area_name": "POMFRET",
+                    "percent_out": 46.728971962616825
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2171
+                    },
+                    "cust_s": 4676,
+                    "area_name": "PORTLAND",
+                    "percent_out": 46.42857142857143
+                  },
+                  {
+                    "cust_a": {
+                      "val": 664
+                    },
+                    "cust_s": 2252,
+                    "area_name": "PRESTON",
+                    "percent_out": 29.484902309058615
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2712
+                    },
+                    "cust_s": 4223,
+                    "area_name": "PROSPECT",
+                    "percent_out": 64.21974899360644
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1736
+                    },
+                    "cust_s": 5228,
+                    "area_name": "PUTNAM",
+                    "percent_out": 33.20581484315226
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3668
+                    },
+                    "cust_s": 3829,
+                    "area_name": "REDDING",
+                    "percent_out": 95.79524680073126
+                  },
+                  {
+                    "cust_a": {
+                      "val": 7182
+                    },
+                    "cust_s": 10989,
+                    "area_name": "RIDGEFIELD",
+                    "percent_out": 65.35626535626535
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1047
+                    },
+                    "cust_s": 10237,
+                    "area_name": "ROCKY HILL",
+                    "percent_out": 10.227605743870274
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1341
+                    },
+                    "cust_s": 1352,
+                    "area_name": "ROXBURY",
+                    "percent_out": 99.18639053254438
+                  },
+                  {
+                    "cust_a": {
+                      "val": 597
+                    },
+                    "cust_s": 1989,
+                    "area_name": "SALEM",
+                    "percent_out": 30.015082956259427
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1109
+                    },
+                    "cust_s": 3009,
+                    "area_name": "SALISBURY",
+                    "percent_out": 36.85609837155201
+                  },
+                  {
+                    "cust_a": {
+                      "val": 694
+                    },
+                    "cust_s": 700,
+                    "area_name": "SCOTLAND",
+                    "percent_out": 99.14285714285714
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2344
+                    },
+                    "cust_s": 7668,
+                    "area_name": "SEYMOUR",
+                    "percent_out": 30.568596765779866
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1792
+                    },
+                    "cust_s": 2169,
+                    "area_name": "SHARON",
+                    "percent_out": 82.6187183033656
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2,
+                      "masked": true
+                    },
+                    "cust_s": 2,
+                    "area_name": "SHELTON",
+                    "percent_out": 100.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1796
+                    },
+                    "cust_s": 1992,
+                    "area_name": "SHERMAN",
+                    "percent_out": 90.16064257028113
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2777
+                    },
+                    "cust_s": 11207,
+                    "area_name": "SIMSBURY",
+                    "percent_out": 24.77915588471491
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1406
+                    },
+                    "cust_s": 4122,
+                    "area_name": "SOMERS",
+                    "percent_out": 34.10965550703542
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2838
+                    },
+                    "cust_s": 12251,
+                    "area_name": "SOUTH WINDSOR",
+                    "percent_out": 23.165455881152557
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2947
+                    },
+                    "cust_s": 10032,
+                    "area_name": "SOUTHBURY",
+                    "percent_out": 29.37599681020734
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5257
+                    },
+                    "cust_s": 20313,
+                    "area_name": "SOUTHINGTON",
+                    "percent_out": 25.87997833899473
+                  },
+                  {
+                    "cust_a": {
+                      "val": 266
+                    },
+                    "cust_s": 1459,
+                    "area_name": "SPRAGUE",
+                    "percent_out": 18.231665524331735
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2160
+                    },
+                    "cust_s": 6311,
+                    "area_name": "STAFFORD",
+                    "percent_out": 34.225954682300745
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4735
+                    },
+                    "cust_s": 61409,
+                    "area_name": "STAMFORD",
+                    "percent_out": 7.710596166685665
+                  },
+                  {
+                    "cust_a": {
+                      "val": 966
+                    },
+                    "cust_s": 1674,
+                    "area_name": "STERLING",
+                    "percent_out": 57.70609318996416
+                  },
+                  {
+                    "cust_a": {
+                      "val": 139
+                    },
+                    "cust_s": 11041,
+                    "area_name": "STONINGTON",
+                    "percent_out": 1.2589439362376598
+                  },
+                  {
+                    "cust_a": {
+                      "val": 706
+                    },
+                    "cust_s": 6368,
+                    "area_name": "SUFFIELD",
+                    "percent_out": 11.086683417085426
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1372
+                    },
+                    "cust_s": 3871,
+                    "area_name": "THOMASTON",
+                    "percent_out": 35.44303797468354
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1722
+                    },
+                    "cust_s": 4713,
+                    "area_name": "THOMPSON",
+                    "percent_out": 36.53723742838956
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2972
+                    },
+                    "cust_s": 6138,
+                    "area_name": "TOLLAND",
+                    "percent_out": 48.41968067774519
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5229
+                    },
+                    "cust_s": 18736,
+                    "area_name": "TORRINGTON",
+                    "percent_out": 27.908838599487616
+                  },
+                  {
+                    "cust_a": {
+                      "val": 0
+                    },
+                    "cust_s": 0,
+                    "area_name": "TRUMBULL",
+                    "percent_out": 0.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 388
+                    },
+                    "cust_s": 455,
+                    "area_name": "UNION",
+                    "percent_out": 85.27472527472527
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2150
+                    },
+                    "cust_s": 16461,
+                    "area_name": "VERNON",
+                    "percent_out": 13.061174898244335
+                  },
+                  {
+                    "cust_a": {
+                      "val": 245
+                    },
+                    "cust_s": 1326,
+                    "area_name": "VOLUNTOWN",
+                    "percent_out": 18.47662141779789
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1,
+                      "masked": true
+                    },
+                    "cust_s": 2,
+                    "area_name": "WALLINGFORD",
+                    "percent_out": 50.0
+                  },
+                  {
+                    "cust_a": {
+                      "val": 834
+                    },
+                    "cust_s": 847,
+                    "area_name": "WARREN",
+                    "percent_out": 98.46517119244392
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2288
+                    },
+                    "cust_s": 2637,
+                    "area_name": "WASHINGTON",
+                    "percent_out": 86.76526355707243
+                  },
+                  {
+                    "cust_a": {
+                      "val": 8986
+                    },
+                    "cust_s": 51881,
+                    "area_name": "WATERBURY",
+                    "percent_out": 17.320406314450377
+                  },
+                  {
+                    "cust_a": {
+                      "val": 824
+                    },
+                    "cust_s": 9907,
+                    "area_name": "WATERFORD",
+                    "percent_out": 8.317351367719795
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2696
+                    },
+                    "cust_s": 10258,
+                    "area_name": "WATERTOWN",
+                    "percent_out": 26.28192630142328
+                  },
+                  {
+                    "cust_a": {
+                      "val": 10995
+                    },
+                    "cust_s": 28808,
+                    "area_name": "WEST HARTFORD",
+                    "percent_out": 38.166481532907525
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1647
+                    },
+                    "cust_s": 4671,
+                    "area_name": "WESTBROOK",
+                    "percent_out": 35.26011560693642
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3645
+                    },
+                    "cust_s": 3876,
+                    "area_name": "WESTON",
+                    "percent_out": 94.04024767801857
+                  },
+                  {
+                    "cust_a": {
+                      "val": 10864
+                    },
+                    "cust_s": 12633,
+                    "area_name": "WESTPORT",
+                    "percent_out": 85.99699200506609
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3867
+                    },
+                    "cust_s": 12664,
+                    "area_name": "WETHERSFIELD",
+                    "percent_out": 30.535375868603914
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1676
+                    },
+                    "cust_s": 2966,
+                    "area_name": "WILLINGTON",
+                    "percent_out": 56.50708024275119
+                  },
+                  {
+                    "cust_a": {
+                      "val": 5517
+                    },
+                    "cust_s": 7532,
+                    "area_name": "WILTON",
+                    "percent_out": 73.24747742963356
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4811
+                    },
+                    "cust_s": 6139,
+                    "area_name": "WINCHESTER",
+                    "percent_out": 78.36781234728784
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2279
+                    },
+                    "cust_s": 10316,
+                    "area_name": "WINDHAM",
+                    "percent_out": 22.091896083753394
+                  },
+                  {
+                    "cust_a": {
+                      "val": 4702
+                    },
+                    "cust_s": 13601,
+                    "area_name": "WINDSOR",
+                    "percent_out": 34.570987427395046
+                  },
+                  {
+                    "cust_a": {
+                      "val": 131
+                    },
+                    "cust_s": 6555,
+                    "area_name": "WINDSOR LOCKS",
+                    "percent_out": 1.9984744469870328
+                  },
+                  {
+                    "cust_a": {
+                      "val": 1672
+                    },
+                    "cust_s": 7084,
+                    "area_name": "WOLCOTT",
+                    "percent_out": 23.60248447204969
+                  },
+                  {
+                    "cust_a": {
+                      "val": 20
+                    },
+                    "cust_s": 28,
+                    "area_name": "WOODBRIDGE",
+                    "percent_out": 71.42857142857143
+                  },
+                  {
+                    "cust_a": {
+                      "val": 3483
+                    },
+                    "cust_s": 5202,
+                    "area_name": "WOODBURY",
+                    "percent_out": 66.95501730103807
+                  },
+                  {
+                    "cust_a": {
+                      "val": 2948
+                    },
+                    "cust_s": 4183,
+                    "area_name": "WOODSTOCK",
+                    "percent_out": 70.47573511833612
+                  }
+                ],
+                "percent_out": 31.38171126993059
+              }
+            ],
+            "percent_out": 31.38171126993059
+          }
+        ],
+        "percent_out": 0.0
+      }
+    ]
+  }
+}
