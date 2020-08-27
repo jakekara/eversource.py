@@ -39,4 +39,6 @@ Downloading Connecticut data to JSON
 (venv) $ python -m eversource.__main__ --region-id conn --out "example-output/conn.json" --format=json
 ```
 
+## Watch and record outages continuously
 
+The script `watch.sh` shows how you might want to set up a simple script to record outages every five minutes. This demo uses `conn` (Connecticut) as the region.
