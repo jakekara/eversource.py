@@ -2,6 +2,8 @@
 
 Get eversource outage data.
 
+**note: This project is not affiliated with Eversource in any way. It's just a side project**
+
 
 ## Overview
 
